@@ -16,6 +16,6 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
     stroke="green" stroke-width="4"
     fill="white" />
   <text x="10" y="100" style="fill:red;" font-family="Verdana" font-size="100">
-    <textPath xlink:href="#path1">Hello World</textPath>
+    <textPath xlink:href="#path1">Hello SoftSpec</textPath>
   </text>
 </svg> 
