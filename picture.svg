@@ -5,7 +5,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
   </defs>
   <circle cx="200" cy="300" r="150"
     stroke="green" stroke-width="4"
-    fill="yellow" />
+    fill="blue" />
   <circle cx="150" cy="250" r="20"
     stroke="green" stroke-width="4"
     fill="white" />
