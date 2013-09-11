@@ -4,8 +4,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
     <path id="path1" d="M75,20 a1,1 0 0,0 500,0" />
   </defs>
   <circle cx="200" cy="300" r="150"
-    stroke="green" stroke-width="4"
-    fill="yellow" />
+    stroke="pink" stroke-width="4"
+    fill="pink" />
   <circle cx="150" cy="250" r="20"
     stroke="green" stroke-width="4"
     fill="white" />
@@ -16,6 +16,6 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
     stroke="green" stroke-width="4"
     fill="white" />
   <text x="10" y="100" style="fill:red;" font-family="Verdana" font-size="100">
-    <textPath xlink:href="#path1">Hello World</textPath>
+    <textPath xlink:href="#path1">=w=</textPath>
   </text>
 </svg> 
